@@ -1,2 +1,2 @@
-# ObsidianSpace
+
 Obsidian workspace
